@@ -1,4 +1,4 @@
-# Olá, me chamo Richard Rafael! 
+# Olá, me chamo Camila Fernanda! 
 
 ## Bem vindo ao meu perfil GitHub 👋
 
@@ -19,8 +19,8 @@
 ##
 <div>
   <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafernanda&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilafernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardrafael&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richardrafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
