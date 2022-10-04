@@ -1,4 +1,4 @@
-# Olá, me chamo Camila Fernanda! 
+# Olá, me chamo Richard Rafael! 
 
 ## Bem vindo ao meu perfil GitHub 👋
 
@@ -32,5 +32,5 @@
 </div>
 
 ##
-  ![Snake animation](https://github.com/Richardrafael/Richardrafael/blob/output/github-contribution-grid-snake.svg)
+ 
   
