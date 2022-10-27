@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 👩‍🏫 Desenvolvedor Frontend
+- 👨‍💻  Desenvolvedor Frontend
 - 📚 Estudante de ADS - Fatec São José dos Campos - Cursando
 - 💻 Ensino tecnico - Automação Industrial - Concluido
 - 💪 Estou a Procura de um Estagio na area desenvolvimento 
