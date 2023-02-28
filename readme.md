@@ -10,7 +10,7 @@
 ### Ferramentas e Tecnologias
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyVyb_c1aX_UNzL2GfEHLpVx04pTx1xpLIgMMZbMgM4w&s" width="40" height="40"/>
-<img src="" width="40 height="40" />
+<!-- <img src="" width="40 height="40" /> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoQOteOe3s4LhhtbCRSgaRTmJVzdO84ygkDwjWc7bjw&s" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40">
 
 
