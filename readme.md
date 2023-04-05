@@ -13,17 +13,6 @@
 <!-- <img src="" width="40 height="40" /> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoQOteOe3s4LhhtbCRSgaRTmJVzdO84ygkDwjWc7bjw&s" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40">
 
-
-
-
-##
-<div>
-  <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardrafael&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richardrafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-##
 ### Contatos:
 <div align="center"> 
   <a href="https://www.instagram.com/richard.soarres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
