@@ -5,7 +5,7 @@
 - 👨‍💻  Desenvolvedor Frontend
 - 📚 Estudante de ADS - Fatec São José dos Campos - Cursando
 - 💻 Ensino tecnico - Automação Industrial - Concluido
-- 💪 Estou a Procura de um Estagio na area desenvolvimento 
+- 💪 Estou a Procura de um Estágio na área desenvolvimento 
 
 <!-- ### Ferramentas e Tecnologias
 
@@ -16,6 +16,7 @@
 <div align="center"> 
   <a href = "mailto:richard.rafael.soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richardsoaress" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://portifolio-react-gamma.vercel.app/" target="_blank">Portifolio</a> 
 </div>
 
 ##
