@@ -16,7 +16,8 @@
 <div align="center"> 
   <a href = "mailto:richard.rafael.soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richardsoaress" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://portifolio-react-gamma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifolio%230077B5?style=for-the-badge&logo=Portifolio&logoColor=white" target="_blank"></a> 
+  <a href="https://portifolio-react-gamma.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/:badgeContent)
+></a> 
 </div>
 
 ##
