@@ -5,7 +5,10 @@
 - 👨‍💻  Desenvolvedor Frontend
 - 📚 Estudante de ADS - Fatec São José dos Campos - Cursando
 - 💻 Ensino tecnico - Automação Industrial - Concluido
-- 💪 Estou a Procura de um Estágio na área desenvolvimento 
+- 💪 Estou a Procura de um Estágio na área desenvolvimento
+
+## Estatísticas 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=richardrafael&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=rueE94D5&hide_title=true&text_color=FFF)
 
 <!-- ### Ferramentas e Tecnologias
 
