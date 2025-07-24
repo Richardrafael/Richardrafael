@@ -3,7 +3,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 👨‍💻  Desenvolvedor de Software
-- 📚 Estudante de ADS - Fatec São José dos Campos - Cursando
+- 📚 Estudante de ADS - Fatec São José dos Campos - Concluido
 - 💻 Ensino tecnico - Automação Industrial - Concluido
 
 
